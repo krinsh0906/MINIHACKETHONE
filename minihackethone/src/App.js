@@ -1,9 +1,9 @@
-import Login from './login'
+// import Login from './login'
 
 import './App.css';
-import './login.css';
-// import Homenav from './homenav';
-// import './homenav.css';
+// import './login.css';
+import Homenav from './homenav';
+import './homenav.css';
 // import Hero from './hero';
 // import './hero.css'
 // import Hometodo from './hometodo';
@@ -19,12 +19,12 @@ function App() {
     <div className="App">
 
 
-      <Login/>
-      {/* <Homenav/>
-      <Hero/>
+      {/* <Login/> */}
+       <Homenav/>
+      {/* <Hero/>
       <Hometodo/>
       <Contactus/>
-      <Footer/> */}
+      <Footer/>  */}
 
     </div>
   );
