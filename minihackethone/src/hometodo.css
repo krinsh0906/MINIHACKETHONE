@@ -1,0 +1,35 @@
+.maintodo-container{
+    margin: 3rem 0 0 3rem;
+}
+.todo-line{
+    width: 50rem;
+    margin: 40rem 0 0 14rem;
+}
+.todo-logo{
+    font-size: 1.5rem;
+}
+.todo-logo>h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.todo-text{
+    margin: 4rem 0 0 3rem;  
+    float: left;
+}
+.todo-img{
+    float: right;
+    margin: 3rem 2rem 0 0;
+}
+.todo-button{
+    margin: 6rem 0 0 0;
+}
+.button{
+    height: 2rem;
+    width: 9rem;
+    border: none;
+    background-color: #BEE5D3;
+    border-radius: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.todo-vactor{
+    height: 20rem;
+}
