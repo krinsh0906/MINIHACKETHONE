@@ -4,8 +4,8 @@ import './App.css';
 // import './login.css';
 import Homenav from './homenav';
 import './homenav.css';
-// import Hero from './hero';
-// import './hero.css'
+import Hero from './hero';
+import './hero.css'
 // import Hometodo from './hometodo';
 // import './hometodo.css'
 // import Contactus from './contactus';
@@ -21,8 +21,8 @@ function App() {
 
       {/* <Login/> */}
        <Homenav/>
-      {/* <Hero/>
-      <Hometodo/>
+      <Hero/>
+      {/* <Hometodo/>
       <Contactus/>
       <Footer/>  */}
 
