@@ -8,8 +8,8 @@ import Hero from './hero';
 import './hero.css'
 import Hometodo from './hometodo';
 import './hometodo.css'
-// import Contactus from './contactus';
-// import './contactus.css'
+import Contactus from './contactus';
+import './contactus.css'
 // import Footer from './footer';
 // import './footer.css'
 
@@ -23,8 +23,8 @@ function App() {
        <Homenav/>
       <Hero/>
       <Hometodo/>
-      {/* <Contactus/>
-      <Footer/>  */}
+      <Contactus/>
+      {/* <Footer/>  */}
 
     </div>
   );
