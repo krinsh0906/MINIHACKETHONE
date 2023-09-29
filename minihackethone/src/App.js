@@ -10,8 +10,8 @@ import Hometodo from './hometodo';
 import './hometodo.css'
 import Contactus from './contactus';
 import './contactus.css'
-// import Footer from './footer';
-// import './footer.css'
+import Footer from './footer';
+import './footer.css'
 
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
       <Hero/>
       <Hometodo/>
       <Contactus/>
-      {/* <Footer/>  */}
+      <Footer/> 
 
     </div>
   );
