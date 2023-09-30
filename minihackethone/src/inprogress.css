@@ -1,0 +1,16 @@
+.inprogress-maincontainer{
+    float: right;
+    margin: -28rem 0 0 0;
+}
+.inprogress-container{
+    border: 1px solid none;
+    height: 28rem;
+    width: 19rem;
+    margin:0 24rem 0 0;
+    background-color: #C0DBD2;
+    border-radius: 1rem;
+    
+}
+.inprogress-logo{
+    padding: 1rem ;
+}

@@ -1,0 +1,21 @@
+.todoadd-container{
+    border: 1px solid none;
+    height: 28rem;
+    width: 19rem;
+    margin: 6rem 0 0 21rem;
+    background-color: #C0DBD2;
+    border-radius: 1rem;
+    
+}
+.todoadd-logo{
+    padding: 1rem ;
+}
+.todoadd-button{
+    margin: 0 0 0 1.7rem;
+    height: 2.8rem;
+    width: 15rem;
+    border-radius: 0.5rem;
+    border: none;
+    font-size: 1.5rem;
+    background-color: #4D897E;
+}
