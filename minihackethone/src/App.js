@@ -1,6 +1,8 @@
 // import Login from './login'
 
 // import './App.css';
+import Todoadd from './todoadd';
+import './todoadd.css'
 import Todonav from './todonav';
 import './todonav.css'
 import Todopage from './todopage';
@@ -31,6 +33,7 @@ function App() {
       <Footer/> */}
       <Todonav/>
       <Todopage/>
+      <Todoadd/>
 
     </div>
   );
