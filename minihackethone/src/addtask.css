@@ -1,0 +1,30 @@
+.addtask-containor{
+    border: 1px solid none;
+    height: 20rem;
+    width: 35rem;
+    margin: 10rem 0 0 25rem;
+    background-color: #E3EAE9;
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 8px 15px;
+}
+.addtask-headding{
+   padding: .4rem 0 0 1rem;
+}
+.addtask-form{
+    margin-left: 5rem;
+}
+.main-inpute{
+    height: 2rem;
+    width: 22rem;
+    background-color: #C0DBD2;
+    border: none;
+    border-radius: .5rem;
+}
+.button{
+    width: 8rem;
+    height: 2rem;
+    margin: 3rem 0 0 7rem;
+    background-color: #4D897E;
+    border: none;
+    border-radius: .5rem;
+}
