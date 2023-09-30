@@ -1,6 +1,8 @@
 // import Login from './login'
 
 // import './App.css';
+import Completed from './completed';
+import './completed.css'
 import Inprogress from './inprogress';
 import './inprogress.css'
 import Todoadd from './todoadd';
@@ -37,6 +39,7 @@ function App() {
       <Todopage/>
       <Todoadd/>
       <Inprogress/>
+      <Completed/>
 
     </div>
   );

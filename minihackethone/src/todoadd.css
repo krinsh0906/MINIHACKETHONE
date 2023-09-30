@@ -1,7 +1,7 @@
 .todoadd-container{
     border: 1px solid none;
     height: 28rem;
-    width: 18rem;
+    width: 19rem;
     margin: 6rem 0 0 21rem;
     background-color: #C0DBD2;
     border-radius: 1rem;
@@ -11,8 +11,8 @@
     padding: 1rem ;
 }
 .todoadd-button{
-    margin: 0 0 0 1.5rem;
-    height: 2.5rem;
+    margin: 0 0 0 1.7rem;
+    height: 2.8rem;
     width: 15rem;
     border-radius: 0.5rem;
     border: none;
