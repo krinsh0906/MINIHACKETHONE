@@ -3,6 +3,7 @@
     padding: 0;
 }
 .todo-nav{
+    position: fixed;
     height: 40.8rem;
     width: 19rem;
     background-color: #E3EAE9;

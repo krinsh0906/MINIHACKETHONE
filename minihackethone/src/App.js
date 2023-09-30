@@ -1,8 +1,10 @@
 // import Login from './login'
 
-import './App.css';
+// import './App.css';
 import Todonav from './todonav';
 import './todonav.css'
+import Todopage from './todopage';
+import './todopage.css'
 // import './login.css';
 // import Homenav from './homenav';
 // import './homenav.css';
@@ -28,6 +30,7 @@ function App() {
       <Contactus/>
       <Footer/> */}
       <Todonav/>
+      <Todopage/>
 
     </div>
   );
